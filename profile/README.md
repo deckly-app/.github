@@ -18,11 +18,13 @@
 
 ---
 
-Deckly sets up and drives your Stream Deck without the official app: profiles,
-pages, folders, multi-actions, built-in actions, animated keys, wallpapers
-across keys, and profiles that switch with the active window. It imports your
-existing setup from the official app in one click and runs existing Stream Deck
-SDK plugins unchanged.
+Deckly is an alternative to the official Stream Deck app. It does what you
+are used to there: profiles, pages, folders, multi-actions and built-in
+actions. On top of that come animated keys, one wallpaper across all keys,
+and profiles that switch with the active window.
+
+Moving over is easy: one click brings your setup from the official app, and
+your Stream Deck SDK plugins keep working.
 
 > Deckly is unofficial and not made, approved, or supported by Elgato or
 > Corsair. It is in early alpha: only the Stream Deck MK.2 has been tested on
