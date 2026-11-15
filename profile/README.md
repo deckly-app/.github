@@ -28,8 +28,19 @@ actions. What makes it different:
   the way of your games and streams.
 - **Linux too.** Windows, macOS and Linux, from one code base.
 
-Moving over is easy: one click brings your setup from the official app, and
-your Stream Deck SDK plugins keep working.
+Moving over is easy: one click brings your setup from the official app.
+
+Plugins made for the Stream Deck SDK run in Deckly too, but not every one
+works yet:
+
+- Plugins installed from the official Marketplace are encrypted, so Deckly
+  cannot use those copies; get the plugin from its author's own download.
+- A plugin built only for Windows runs on Linux and macOS through Wine, as
+  best effort; one built only for macOS does not run on Linux.
+- Some plugins may still fail. The
+  [Plugins section](https://github.com/deckly-app/Deckly#plugins) has the
+  details, and [issues](https://github.com/deckly-app/Deckly/issues) about a
+  plugin that does not work are welcome.
 
 > Deckly is unofficial and not made, approved, or supported by Elgato or
 > Corsair. It is in early alpha: only the Stream Deck MK.2 has been tested on
