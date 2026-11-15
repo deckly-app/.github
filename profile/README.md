@@ -20,8 +20,13 @@
 
 Deckly is an alternative to the official Stream Deck app. It does what you
 are used to there: profiles, pages, folders, multi-actions and built-in
-actions. On top of that come animated keys, one wallpaper across all keys,
-and profiles that switch with the active window.
+actions. What makes it different:
+
+- **Open source.** MIT licensed: read the code, change it, build it yourself.
+- **Light.** A native Rust app with no web browser inside, that waits for
+  key presses instead of checking for them all the time, so it stays out of
+  the way of your games and streams.
+- **Linux too.** Windows, macOS and Linux, from one code base.
 
 Moving over is easy: one click brings your setup from the official app, and
 your Stream Deck SDK plugins keep working.
